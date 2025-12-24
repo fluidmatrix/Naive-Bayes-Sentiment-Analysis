@@ -69,8 +69,8 @@ Using this assumption, the classifier:
 ## ▶️ Usage
 
 
-# *You can also install all requirements using requirements.txt*
-## Write in Terminal
+## *You can also install all requirements using requirements.txt*
+### Write in Terminal
 ```python 
 pip install -r requirements.txt
 ```
