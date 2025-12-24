@@ -15,4 +15,4 @@ python-dateutil==2.9.0.post0
 regex==2025.11.3
 six==1.17.0
 tqdm==4.67.1
-pandas
+
