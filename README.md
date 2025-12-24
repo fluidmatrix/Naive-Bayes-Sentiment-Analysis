@@ -62,8 +62,14 @@ Using this assumption, the classifier:
 - Sentiment prediction for custom input tweets
 
 ---
+## Results(Screenshots)
+![Results](image.png)
+
 
 ## ▶️ Usage
+
+
+## *You can also install all requirements using requirements.txt*
 
 ### Install Required NLTK Data
 ```python
@@ -71,7 +77,6 @@ import nltk
 nltk.download('twitter_samples')
 nltk.download('stopwords')
 
-## *You can also install all requirements using requirements.txt*
 
 ## 📈 Model Performance
 
@@ -81,4 +86,4 @@ The Naive Bayes classifier was evaluated on a held-out test set from the NLTK Tw
 
 This result shows that the model performs very well on short, sentiment-rich text such as tweets.
 
-![Test Results](<image.png>)
+
