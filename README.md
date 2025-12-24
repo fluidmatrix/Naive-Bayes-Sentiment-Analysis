@@ -43,6 +43,7 @@ Using this assumption, the classifier:
 ## 📁 Project Structure
 .
 ├── main.py
+├── requirements.txt
 ├── helper.py
 └── README.md
 
@@ -80,4 +81,4 @@ The Naive Bayes classifier was evaluated on a held-out test set from the NLTK Tw
 
 This result shows that the model performs very well on short, sentiment-rich text such as tweets.
 
-![Test Results](<./image.png>)
+![Test Results](<image.png>)
